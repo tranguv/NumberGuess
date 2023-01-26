@@ -40,6 +40,6 @@
 <h3>Scores and ranking</h3>
 <p>Player's best score will be displayed when they finished the game either lose or win and will show in a leaderboard. The higher the score, the higher rank they will have</p>
 
-<h3>End Screen, Congratulations screen and Leaderboard</>
+<h3>End Screen, Congratulations screen and Leaderboard</h3>
 <p>End screen will appear if the user loses and congratulation screen will appear otherwise. After that, it will transit to the leaderboard.</p>
 <p>For the leaderboard, I used built-in Collections in Java to sort the scores and print out the user's name and score respectively from high to low</p>
